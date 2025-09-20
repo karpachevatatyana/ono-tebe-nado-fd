@@ -19,9 +19,7 @@
  .header__link {
 	 font-style: inherit;
 	 text-decoration-thickness: 1px;
-	/* толщина линии */
 	 text-underline-offset: 4px;
-	/* отступ вниз */
 }
  .header__link_active {
 	 text-decoration: none;
@@ -32,7 +30,6 @@
  .header__logo-image {
 	 display: block;
 	 width: 140px;
-	/* 👉 уточни */
 }
  .header__address {
 	 max-width: 237px;
@@ -210,14 +207,7 @@
 	 text-decoration: underline;
 	 color: #000;
 }
- .lots__look-more-link {
-	 display: block;
-	 margin-top: 20px;
-	 text-decoration: underline;
-	 color: #000;
-	 font-size: 16px;
-	/* 👉 уточни */
-}
+
 /* ====== ABOUT ====== */
  .about {
 	 margin: 0 24px 180px 24px;
